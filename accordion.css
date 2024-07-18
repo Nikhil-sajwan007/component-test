@@ -74,10 +74,13 @@ body {
 
 .close-icon {
     position: absolute;
-    right: 10px;
-    top: 10px;
+    left: 47%;
+    bottom: -22px;
     cursor: pointer;
     color: #f00;
     font-size: 18px;
     line-height: 1;
+    background-color: #D9D9D9;
+    padding: 14px 20px 24px 20px;
+    border-radius: 50px;
 }
